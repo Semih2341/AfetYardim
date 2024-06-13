@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "730565006517",
+    "project_id": "depremdayanisma-e208a",
+    "storage_bucket": "depremdayanisma-e208a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:730565006517:android:4691248fc1cbc216c55afc",
+        "android_client_info": {
+          "package_name": "com.example.farukhelp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBxAPvXBjehfDxOC4FQNPGBHlm6iBmf_vM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
